@@ -1,21 +1,23 @@
 # Design Pattern Swift
 
-This is review of Adam Freeman's [Pro Design Patterns in Swift](https://www.amazon.com/Design-Patterns-Swift-Adam-Freeman/dp/148420395X). I pick up the most important sample codes from the book and use Xcode 11's playground to run. Enjoy it.
+This is review of Adam Freeman's [Pro Design Patterns in Swift](https://www.amazon.com/Design-Patterns-Swift-Adam-Freeman/dp/148420395X). I pick up the most important sample code from the book and use Xcode 11's playground to run. Enjoy it.
 
 ## Introudction
 
 Design pattern is one of the most important things that, as an iOS developer, need to learn to make your code easy to maintain and expand for your team. 
 
-There are many books talking about design pattern and this is the book I found use Swift as example to show how to use design pattern in iOS world with sample codes, design pattern used in Cocoa framework, and most importantly, the book also gives a demo project.
+There are many books talking about design pattern and this is the book I found use Swift as example to show how to use design pattern in iOS world with sample code, design pattern used in Cocoa framework, and most importantly, the book also gives a demo project.
 
 I also make the demo project from the book with my twist, [check here](https://github.com/hayasilin/design-pattern-swift-demo-project).
 
 ## Chapters
 
-- From chapter 1 to chapter 4 are contents that introduce design pattern and Xcode, so I will skip them and start from chapter 5.
-- I also skip chapter 8 becasue it's a extension of chapter 7 so I think the content of chapter 7 is enough. 
-- I skip chapter 27 because it talks about MVC pattern, I think it no needs more introduction.
-- If you want to know more detail, please buy the book.
+- From chapter 1 to chapter 3 are contents that introduce design pattern and how to create a project in Xcode, so I skip them and some chapters that I think I don't need to put them here. The skipped chapters are:
+- Chapter 4: Becasue object template it's not quit a design pattern.
+- Chapter 8: Becasue it's a extension of chapter 7 object pool pattern, so I think the content of chapter 7 is enough. 
+- Chapter 27: Because it talks about MVC pattern, I think no needs more introduction.
+
+**If you want to know more detail, you can buy the book.**
 
 **Design patterns in this book:**
 

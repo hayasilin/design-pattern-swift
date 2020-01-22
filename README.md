@@ -1,4 +1,4 @@
-# design-pattern-swift
+# Design Pattern Swift
 
 This is review of Adam Freeman's [Pro Design Patterns in Swift](https://www.amazon.com/Design-Patterns-Swift-Adam-Freeman/dp/148420395X). I pick up the most important sample codes from the book and use Xcode 11's playground to run. Enjoy it.
 
@@ -35,7 +35,7 @@ I also make the demo project from the book with my twist, [check here](https://g
 14. [Chain of responsibility pattern](https://github.com/hayasilin/design-pattern-swift/blob/master/19_ChainOfResponsibilityPattern.playground/Contents.swift)
 15. [Command pattern](https://github.com/hayasilin/design-pattern-swift/blob/master/20_CommandPattern.playground/Contents.swift)
 16. [Mediator pattern](https://github.com/hayasilin/design-pattern-swift/blob/master/21_MediatorPattern.playground/Contents.swift)
-17. [Observer pattern]
+17. Observer pattern
 18. [Memento pattern](https://github.com/hayasilin/design-pattern-swift/blob/master/23_MementoPattern.playground/Contents.swift)
 19. [Strategy pattern](https://github.com/hayasilin/design-pattern-swift/blob/master/24_StrategyPattern.playground/Contents.swift)
 20. [Visitor pattern](https://github.com/hayasilin/design-pattern-swift/blob/master/25_VisitorPattern.playground/Contents.swift)

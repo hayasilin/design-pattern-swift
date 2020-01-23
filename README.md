@@ -19,7 +19,7 @@ I also make the demo project from the book with my twist, [check here](https://g
 
 **If you want to know more detail, you can buy the book.**
 
-**Design patterns in this book:**
+**Design patterns in this repositories:**
 
 1. [Prototype pattern](https://github.com/hayasilin/design-pattern-swift/blob/master/05_PrototypePattern.playground/Contents.swift)
 2. [Singleton pattern](https://github.com/hayasilin/design-pattern-swift/blob/master/06_SingletonPattern.playground/Contents.swift)

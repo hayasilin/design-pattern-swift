@@ -1,5 +1,7 @@
 # Design Pattern Swift
 
+[Here is Traditional Chinese version 繁體中文版本](https://github.com/hayasilin/design-pattern-swift/blob/master/README_zh-Hant.md)
+
 This is review of Adam Freeman's [Pro Design Patterns in Swift](https://www.amazon.com/Design-Patterns-Swift-Adam-Freeman/dp/148420395X). I pick up the most important sample code from the book and use Xcode 11's playground to run. Enjoy it.
 
 ## Introudction

@@ -1,5 +1,7 @@
 # Design Pattern Swift
 
+[Here is English version](https://github.com/hayasilin/design-pattern-swift/blob/master/README.md)
+
 這是我對Adam Freeman的書：[Pro Design Patterns in Swift](https://www.amazon.com/Design-Patterns-Swift-Adam-Freeman/dp/148420395X)的讀書筆記. 我挑選了書中我認我最重要的範例程式碼，並使用Xcode 11的playground來呈現。
 
 ## 介紹

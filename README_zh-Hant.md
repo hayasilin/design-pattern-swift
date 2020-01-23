@@ -1,23 +1,24 @@
 # Design Pattern Swift
 
-This is review of Adam Freeman's [Pro Design Patterns in Swift](https://www.amazon.com/Design-Patterns-Swift-Adam-Freeman/dp/148420395X). I pick up the most important sample code from the book and use Xcode 11's playground to run. Enjoy it.
+這是我對Adam Freeman的書：[Pro Design Patterns in Swift](https://www.amazon.com/Design-Patterns-Swift-Adam-Freeman/dp/148420395X)的讀書筆記. 我挑選了書中我認我最重要的範例程式碼，並使用Xcode 11的playground來呈現。
 
-## Introudction
+## 介紹
 
-Design pattern is one of the most important things that, as an iOS developer, need to learn to make your code easy to maintain and expand for your team. In addition, by learning design patter, it helps you to know more about the relationship between objects and also know more about how to use Swift to implement design pattern.
+對於iOS工程師來說，了解設計模式（Design pattern）是非常重要的一件事，它可以讓你的程式碼更容易被維護，也可被你的團隊輕鬆拓展。此外，透過學習設計模式，也可讓你更了解物件之間的關係以及Swift語言的特性。
 
-There are many books talking about design pattern and this is the book I found use Swift as example to show how to use design pattern in iOS world with sample code, design pattern used in Cocoa framework, and most importantly, the book also gives a demo project.
+市面上有很多介紹設計模式的書籍，而這本是我找到特別使用iOS的Swift語言來實現設計模式，裡面有非常多範例程式碼，並介紹iOS的Cocoa framework裡用了哪些設計模式。更重要的是，此書更提供了1個iOS專案來實現書中提到的所有設計模式。
 
-I also make the demo project from the book with my twist, [check here](https://github.com/hayasilin/design-pattern-swift-demo-project).
+我也實作了書中的iOS專案，並做了我自己的調整，[可以到此觀看](https://github.com/hayasilin/design-pattern-swift-demo-project)。
 
-## Chapters
+## 章節
 
-- From chapter 1 to chapter 3 are contents that introduce design pattern and how to create a project in Xcode, so I skip them and some chapters that I think I don't need to put them here. The skipped chapters are:
-- Chapter 4: Becasue object template it's not quit a design pattern.
-- Chapter 8: Becasue it's a extension of chapter 7 object pool pattern, so I think the content of chapter 7 is enough. 
-- Chapter 27: Because it talks about MVC pattern, I think no needs more introduction.
+- 書中從第1章到第3章皆是介紹設計模式及如何使用Xcode，所以我跳過這些章節。
+- 其他我跳過的章節如下：
+  - 第4章: 介紹Object template模式，不過它其實不太能算是設計模式。
+  - 第8章: 此章是第7章Object pool模式的延伸，因此有第7章的內容已足夠。
+  - 第27章: 此章介紹MVC模式, 我想已不需要再加以說明。
 
-**If you want to know more detail, you can buy the book.**
+**如果你想了解更多細節，推薦購買此書。**
 
 **Design patterns in this repositories:**
 

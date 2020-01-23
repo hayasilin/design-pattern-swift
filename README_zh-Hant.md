@@ -1,4 +1,4 @@
-# Design Pattern Swift
+# 設計模式（Design Pattern）Swift
 
 [Here is English version](https://github.com/hayasilin/design-pattern-swift/blob/master/README.md)
 

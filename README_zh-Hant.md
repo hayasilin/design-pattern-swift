@@ -20,7 +20,7 @@
   - 第8章: 此章是第7章Object pool模式的延伸，因此有第7章的內容已足夠。
   - 第27章: 此章介紹MVC模式, 我想已不需要再加以說明。
 
-**如果你想了解更多細節，推薦購買此書。**
+**如果你想了解更多細節，推薦購買此書([中文版](https://www.tenlong.com.tw/products/9789863477303?list_name=srh) / [英文版](https://www.amazon.com/Design-Patterns-Swift-Adam-Freeman/dp/148420395X))。**
 
 **Design patterns in this repositories:**
 

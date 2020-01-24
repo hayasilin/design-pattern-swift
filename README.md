@@ -19,7 +19,7 @@ I also make the demo project from the book with my twist, [check here](https://g
 - Chapter 8: Becasue it's a extension of chapter 7 object pool pattern, so I think the content of chapter 7 is enough. 
 - Chapter 27: Because it talks about MVC pattern, I think no needs more introduction.
 
-**If you want to know more detail, you can buy the book.**
+**If you want to know more detail, you can buy [the book]((https://www.amazon.com/Design-Patterns-Swift-Adam-Freeman/dp/148420395X)).**
 
 **Design patterns in this repositories:**
 

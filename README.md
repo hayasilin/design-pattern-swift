@@ -4,6 +4,8 @@
 
 This is review of Adam Freeman's [Pro Design Patterns in Swift](https://www.amazon.com/Design-Patterns-Swift-Adam-Freeman/dp/148420395X). I pick up the most important sample code from the book and use Xcode 11's playground to run. Enjoy it.
 
+Because the book have published for a while and it uses Xcode 6's Swift syntax to demonstrate, so I modify the code to make it can run in Xcode 11 with updated Swift syntax.
+
 ## Introudction
 
 Design pattern is one of the most important things that, as an iOS developer, need to learn to make your code easy to maintain and expand for your team. In addition, by learning design patter, it helps you to know more about the relationship between objects and also know more about how to use Swift to implement design pattern.

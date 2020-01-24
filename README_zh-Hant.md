@@ -4,6 +4,8 @@
 
 這是我對Adam Freeman的書：[Pro Design Patterns in Swift](https://www.amazon.com/Design-Patterns-Swift-Adam-Freeman/dp/148420395X)的讀書筆記. 我挑選了書中我認我最重要的範例程式碼，並使用Xcode 11的playground來呈現。
 
+因此書已出版一段時間，書中範例使用Xcode 6的Swift語法呈現，所以我更新了Swift語法讓範例程式碼可在Xcode 11下執行。
+
 ## 介紹
 
 對於iOS工程師來說，了解設計模式（Design pattern）是非常重要的一件事，它可以讓你的程式碼更容易被維護，也可被你的團隊輕鬆拓展。此外，透過學習設計模式，也可讓你更了解物件之間的關係以及Swift語言的特性。

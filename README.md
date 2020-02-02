@@ -2,7 +2,7 @@
 
 [Here is Traditional Chinese version 繁體中文版本](https://github.com/hayasilin/design-pattern-swift/blob/master/README_zh-Hant.md)
 
-This is review of Adam Freeman's [Pro Design Patterns in Swift](https://www.amazon.com/Design-Patterns-Swift-Adam-Freeman/dp/148420395X). I pick up the most important sample code from the book and use Xcode 11's playground to run. Enjoy it.
+This is my note after reading Adam Freeman's [Pro Design Patterns in Swift](https://www.amazon.com/Design-Patterns-Swift-Adam-Freeman/dp/148420395X). I pick up the most important sample code from the book and use Xcode 11's playground to run. Enjoy it.
 
 Because the book have published for a while and it uses Xcode 6's Swift syntax to demonstrate, so I modify the code to make it can run in Xcode 11 with updated Swift syntax.
 
